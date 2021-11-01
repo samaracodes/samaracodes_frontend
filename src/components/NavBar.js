@@ -5,7 +5,7 @@ const NavBar = () => {
         <div>
             <nav class="navbar sticky-top navbar-dark bg-black">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="/">
                     <img src="brand-logo1.png" alt="samara-brand-logo" width="180"/>
                     </a>
 
@@ -17,8 +17,12 @@ const NavBar = () => {
 
             <div class="collapse" id="navbarToggleExternalContent">
                 <div class="bg-dark p-4">
-                    <h5 class="text-white h4">Collapsed content</h5>
-                    <span class="text-muted">Toggleable via the navbar brand.</span>
+                    <h3 class="menu-bar-label text-muted">MENU</h3>
+                    <a href="https://drive.google.com/file/d/1yE0k1OZh83v79ooQfHw9iRkDv7tV8b-8/view?usp=sharing"><h5 class="menu-link text-white">Resume.</h5></a>
+                    <a href="http://github.com/samaracodes"><h5 class="menu-link text-white">Github Projects.</h5></a>
+                    <a href="mailto:samaracodes@gmail.com"><h5 class="menu-link text-white">Email.</h5></a>
+
+
                 </div>
             </div>
 
