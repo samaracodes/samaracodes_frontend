@@ -16,7 +16,7 @@ const Home = () => {
                             <p id="career-label" style={{color: "#09F755"}}>CREATIVE + SOFTWARE ENGINEER 👩🏽‍💻</p>
                             <p id="career-desc" class="text-muted">I'm a full-stack software engineer with a niche in<br></br> front-end web development, based in NYC.</p>
 
-                            <p></p><a type="button" class="btn rounded-pill col-2 mx-auto" href="/contact">HIRE ME</a>
+                            <p></p><a type="button" class="btn rounded-pill col-2 mx-auto" href="mailto:samaracodes@gmail.com">HIRE ME</a>
                         </div>
                     </div>
                 </div>
